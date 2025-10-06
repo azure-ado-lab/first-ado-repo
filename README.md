@@ -1,2 +1,2 @@
 # first-ado-repo
-First Repository to test repository features
+First change in to this features branch to see the updates into master branch 
